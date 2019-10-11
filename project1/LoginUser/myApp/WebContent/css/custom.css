@@ -1,0 +1,43 @@
+.dropdown-menu>.active>a{
+	color: #080808;
+    text-decoration: none;
+    background-color: rgba(0,0,0,.0001);
+    outline: 0;
+}
+.dropdown-menu>.active>a :hover{
+	color: #fff;
+    text-decoration: none;
+    background-color: #337ab7;
+    outline: 0;
+}
+.table td {
+	border-right: 1px solid #ccc;
+}
+.table th {
+	border-right: 1px solid #eee;
+	width: 40px;
+}
+.center{
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	height="438"; 
+	width="876"; 
+}
+.table-striped th{
+	border-right: 1px solid #d2d2d2; 
+	width : 40px;
+
+}
+
+.table-striped td{
+	text-align: center;
+	vertical-align:inherit;	
+}
+.table>tbody>tr>td, .table>thead>tr>td {
+	vertical-align: middle;
+}
+.welcome{
+	padding-top:15px;
+	padding-bottom:15px;
+}
