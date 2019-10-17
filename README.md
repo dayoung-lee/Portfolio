@@ -13,7 +13,6 @@
 + Board
   + user can write, modify and delete text.
   + only user who is logged in can write and modify text.
-
 ----            
 # Project 2
 - This project 2 is a cloning website which is 'Momentum'.
@@ -30,3 +29,4 @@
   + user can put 'To Do List' and remove it.
 + Weather API
   + it shows current temperature & location.
+----     
