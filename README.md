@@ -17,7 +17,7 @@
 ----            
 # Project 2
 - This project 2 is a cloning website which is 'Momentum'.
-- Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
+- (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
 - used language : Vanilla Javascript
 - HTML, CSAS, Javascript
 
