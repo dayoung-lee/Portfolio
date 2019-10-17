@@ -11,9 +11,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<!-- 뷰포트 -->
 <meta name="viewport" content="width=device-width">
-<!-- 스타일시트 참조  -->
+
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/custom.css">
 <title>JSP - Main</title>
