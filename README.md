@@ -1,5 +1,5 @@
 # Project 1
-- This project1 is a simple website.
+- This project 1 is a simple website.
 - front-end : HTML, CSS, JSP, Javascript
 - back-end : Tomcat v9.0, MySQL, Java
 
@@ -16,3 +16,7 @@
 
 ----            
 # Project 2
+- This project 2 is a cloning website which is 'Momentum'.
+- Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
+- used language : Vanilla Javascript
+- HTML, CSAS, Javascript
