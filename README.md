@@ -30,4 +30,3 @@
 + Weather API
   + it shows current temperature & location.
 ----     
-# Project 3
