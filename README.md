@@ -31,8 +31,8 @@
   + it shows current temperature & location.
 ----     
 # Project 3
-- This project 1 is a shopping mall website.
-- front-end : HTML, CSS, Javascript, Jquery
+- This project 3 is a shopping mall website.
+- front-end : HTML, CSS, Javascript
 - Start : 2020.1.16
  
 
