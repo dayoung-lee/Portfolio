@@ -33,6 +33,6 @@
 # Project 3
 - This project 1 is a shopping mall website.
 - front-end : HTML, CSS, Javascript, Jquery
-+ Start : 2020.1.16
+- Start : 2020.1.16
  
 
