@@ -32,8 +32,9 @@
   + it shows current temperature & location.
 ----     
 # Project 3
+- Live Demo : https://dayoung-lee.github.io/liveDemo/p3/main.html
 - This project 3 is a shopping mall website.
 - front-end : HTML, CSS, Javascript
 - Start : 2020.1.16
  
-url : https://dayoung-lee.github.io/liveDemo/p3/main.html
+
