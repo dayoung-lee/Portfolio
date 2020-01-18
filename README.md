@@ -15,6 +15,7 @@
   + only user who is logged in can write and modify text.
 ----            
 # Project 2
+- Live Demo : https://dayoung-lee.github.io/liveDemo/p2/index.html
 - This project 2 is a cloning website which is 'Momentum'.
   + (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
 - front-end : HTML, CSAS, Javascript(VanillaJS)
@@ -35,4 +36,4 @@
 - front-end : HTML, CSS, Javascript
 - Start : 2020.1.16
  
-url : https://dayoung-lee.github.io/liveDemo/main.html
+url : https://dayoung-lee.github.io/liveDemo/p3/main.html
