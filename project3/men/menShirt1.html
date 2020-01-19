@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHMLL</title>
+    
+    <script type = "text/javascript" src="../js/script.js"></script>  
+    <script type = "text/javascript" src="../js/order.js"></script>  
+    <script type = "text/javascript" src="../js/jquery-3.4.1.min.js"></script>  
+</head>
+<body>     
+     <!-- Men shirt -->
+     <div class="wrapper">
+        <!-- menu -->
+        <div class = "header">    
+                <p>FREE SHIPPING OVER $20!</p>        
+                <h1>SHMLL</h1>
+                <nav>
+                    <ul class="menu">
+                        <li><a href="../main.html">Home</a></li>
+                        <li><a href="../women/womenMain.html">Women</a></li>
+                        <li><a href="menMain.html" style = "font-family: monospace;
+                            font-size: 180%;">Men</a></li>
+                        <li><a href="../cart.html">Cart</a></li>
+                        <li><a href="../myPage.html">My Page</a></li>    
+                        <li><a href="../contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+        </div> <!-- /menu -->  
+
+        <div class = "detailItem">             
+            <img src="../image/shirt1.jpg" width ="400px " height = "300px" id = "big">
+            <br/><br/> 
+            <img src="../image/shirt1.jpg" width = "130px" height = "130px" onmouseover="showBig('shirt1.jpg');"/>
+            <img src="../image/shirt1_1.jpg" width = "130px" height = "130px" onmouseover="showBig('shirt1_1.jpg');"/>
+            <img src="../image/shirt1_2.jpg" width = "130px" height = "130px" onmouseover="showBig('shirt1_2.jpg');"/>
+                               
+        </div><!-- /Men shirt -->    
+    </div><!-- /wrapper -->
+    <div class = "description1"> 
+        <h1>Black Shirt</h1>
+        Size : S M L XL<br/>
+        Color : Black<br/>
+        Price : $21.50<br/><br/>
+        
+        <form action = "/actio_page.php">
+            <select name = "size">
+                    <option value = "--">--</option>
+                    <option value = "small">S</option>
+                    <option value = "medium">M</option>
+                    <option value = "large">L</option>
+            </select>
+        </form>
+        
+        <form name="form" method="get">        
+        - Qty :<input type=hidden name="sell_price" value="21.50">
+        <input type="text" name="amount" value="0" size="1" onchange="change();">
+        <input type="button" value=" + " onclick="add();">
+        <input type="button" value=" - " onclick="del();"><br>
+        - Price : $ <input type="text" name="sum" size="2" readonly>
+        <br/><br/>
+
+        <input type = "button" value = "Order" onclick = "window.location.href = '../order.html'">
+        <input type = "button" value = "Back" onclick="window.location.href = '../men/menMain.html'">            
+        </form>
+    </div>  <!--/description1 -->
+    <div class = "moreItem" style = "padding-top: 630px; text-align : center;">
+            <h3>Similar Products...</h3><br/>
+            <div class = "moreItemPic" style = "display: block; margin-left: auto; margin-right:auto;">
+            <img src="../image/shirt1.jpg" width ="200px " height = "180px">
+            <img src="../image/shirt1.jpg" width ="200px " height = "180px">
+            <img src="../image/shirt1.jpg" width ="200px " height = "180px">
+            <img src="../image/shirt1.jpg" width ="200px " height = "180px">        
+        </div>
+    </div>
+
+   <!--footer--> 
+   <br><br><br><br><br><br><br><br><br><br>
+   <hr>
+   <div class = "footer" style="text-align: center">@SHMLL</div>
+ 
+          
+        <link rel="stylesheet" href="../css/style.css"/>
+</body>
+</html>
