@@ -31,10 +31,10 @@
 + Weather API
   + it shows current temperature & location.
 ----     
-# Project 3 (updating)
+# Project 3
 - Live Demo : https://dayoung-lee.github.io/liveDemo/p3/main.html
 - This project 3 is a shopping mall website tmemplate.
 - front-end : HTML, CSS, Javascript
-- Start : 2020.1.16 ~ (ing)
+- Start : 2020.1.16 ~ 1.19
  
 
