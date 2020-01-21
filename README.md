@@ -40,6 +40,6 @@
 
 ----     
 # Project 4 (Updating)
-- This project 4 is a simple board using React
+- front-end : Javascript
 - Start : 2020.1.20 
  
