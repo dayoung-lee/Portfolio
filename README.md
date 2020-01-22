@@ -34,12 +34,12 @@
 # Project 3
 - Live Demo : https://dayoung-lee.github.io/liveDemo/p3/main.html
 - This project 3 is a shopping mall website tmemplate.
-- front-end : HTML, CSS, Javascript
-- Start : 2020.1.16 ~ 1.19
- 
-
-----     
-# Project 4 (Updating)
-- front-end : Javascript
-- Start : 2020.1.20 
- 
+- front-end : HTML, CSS, JavaScript
+- Start : 2020.01.16 ~ 01.19
+---
+# Project 4
+- Live Demo : https://dayoung-lee.github.io/liveDemo/p4/index.html
+- This project 4 is a single page application using Ajax and user can login/logout on Facebook(Facebook API)
+- front-end : HTML, JavaScript(Ajax - fetch/hash functions)
+- Start : 2020.01.21
+ ---
