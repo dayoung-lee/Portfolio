@@ -25,8 +25,7 @@
   + user can see current date and time.
   + background images are changed randomly.
 + User
-  + user can type their name or nickname
-  + local storage save their name.
+  + user can type their name. It will be saved in local storage to remember.
   + user can put 'To Do List' and remove it.
 + Weather API
   + it shows current temperature & location.
