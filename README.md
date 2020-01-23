@@ -15,7 +15,7 @@
   + only user who is logged in can write and modify text.
 ----            
 # Project 2
-- Live Demo : https://dayoung-lee.github.io/liveDemo/p2/index.html
+- Live Demo : <b>https://dayoung-lee.github.io/liveDemo/p2/index.html</b>
 - This project 2 is a cloning website which is 'Momentum'.
   + (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
 - front-end : HTML, CSAS, Javascript(VanillaJS)
@@ -31,13 +31,13 @@
   + it shows current temperature & location.
 ----     
 # Project 3
-- Live Demo : https://dayoung-lee.github.io/liveDemo/p3/main.html
+- Live Demo : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - This project 3 is a shopping mall website tmemplate.
 - front-end : HTML, CSS, JavaScript
 - Start : 2020.01.16 ~ 01.19
 ---
 # Project 4
-- Live Demo : https://dayoung-lee.github.io/liveDemo/p4/index.html
+- Live Demo : <b>https://dayoung-lee.github.io/liveDemo/p4/index.html</b>
 - This project 4 is a single page application using Ajax and user can login/logout on Facebook(Facebook API)
 - front-end : HTML, JavaScript(Ajax - fetch/hash functions)
 - Start : 2020.01.21
