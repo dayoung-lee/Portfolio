@@ -1,0 +1,61 @@
+body{
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 320px;
+    height: auto;
+    text-align: left;    
+    padding-bottom: 0px;
+    border: 2px solid #F2F5A9;
+    background-color: #191007;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{    
+    text-align: center;
+    background-color: #2A120A;
+    color: white;
+   
+    height: 50px;    
+}
+header h1{   
+    margin: 0 auto;
+    position: relative;
+    font-size: 25px;
+    top: 25%;
+}
+#bottomBorder{
+    border-bottom: 2px solid black;
+
+}
+.contentsCss{
+    margin: 0;
+    background-color: #F8ECE0;
+    padding-top: 10px;
+    padding-bottom: 29px;
+}
+
+.contents{
+    margin-left:30px;    
+}
+
+#calBtn {
+	box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background-color:#e4685d;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #b23e35;
+}
+
+#calBtn:hover{
+    background-color:#eb675e;
+}
+#calBtn {
+	position:relative;
+	top:1px;
+}
