@@ -1,8 +1,8 @@
 Live Demo: <b>https://dayoung-lee.github.io/liveDemo</b>
 # Project 1
 - This project 1 is a simple website.
-- front-end : HTML, CSS, JSP, Javascript
-- back-end : Tomcat v9.0, MySQL, Java
+- Front-end : HTML, CSS, JSP, Javascript
+- Back-end : Tomcat v9.0, MySQL, Java
 
 ### function
 + Main
@@ -15,11 +15,10 @@ Live Demo: <b>https://dayoung-lee.github.io/liveDemo</b>
   + user can write, modify and delete text.
   + only user who is logged in can write and modify text.
 ----            
-# Project 2
+# Project 2 Momentum clone coding
 - Live Demo : <b>https://dayoung-lee.github.io/liveDemo/p2/index.html</b>
-- This project 2 is a cloning website which is 'Momentum'.
   + (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
-- front-end : HTML, CSAS, Javascript(VanillaJS)
+- Front-end : HTML, CSAS, JavaScript(VanillaJS)
 
 ### function
 + Main
@@ -31,12 +30,20 @@ Live Demo: <b>https://dayoung-lee.github.io/liveDemo</b>
 + Weather API
   + it shows current temperature & location.
 ----     
-# Project 3
+# Project 3 Shopping mall template
 - Live Demo : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
-- This project 3 is a shopping mall website tmemplate.
-- front-end : HTML, CSS, JavaScript
-- Start : 2020.01.16 ~ 01.19
+- Front-end : HTML, CSS, JavaScript
+- Date : 2020.01.16 ~ 01.19
 ---
-# Project 4
-- Live Demo : 
- ---
+# Project 4 Tip calculator 
+- Live Demo : <b>https://tip-calculator-app.herokuapp.com/</b>
+- Front-end : HTML, CSS, JavaScript
+- Date : 2020.01.23
+- refectoring required.
+
+### function
++ Main
+  + user can save/delete customers' transaction history
++ Tip Calculator
+  + user can put customer number, bill amount, tip(%), number of people
+
