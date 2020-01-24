@@ -38,8 +38,5 @@ Live Demo: <b>https://dayoung-lee.github.io/liveDemo</b>
 - Start : 2020.01.16 ~ 01.19
 ---
 # Project 4
-- Live Demo : <b>https://dayoung-lee.github.io/liveDemo/p4/index.html</b>
-- This project 4 is a single page application using Ajax and user can login/logout on Facebook(Facebook API)
-- front-end : HTML, JavaScript(Ajax - fetch/hash functions)
-- Start : 2020.01.21
+- Live Demo : 
  ---
