@@ -1,0 +1,116 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 960px;
+  margin-left: 50px;
+}
+header{
+  width: 100%;
+  height: auto;
+  font-size : 40px;
+  background-color: palevioletred;  
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+header a{
+  color: white;
+  padding-left: 80px;
+}
+header p {
+  margin: 15px 0;
+}
+a{
+  text-decoration: none;
+}
+.control{
+  padding-top: 30px;
+}
+.control button, #deleteBtn{
+  margin-right: 20px;
+	box-shadow:inset 0px 1px 0px 0px #efdcfb;
+	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
+	background-color:#dfbdfa;
+	border-radius:6px;
+	border:1px solid #c584f3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9752cc;
+  text-decoration: none;
+}
+.control button:hover, #deleteBtn:hover{
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	background-color:#bc80ea;
+}
+
+
+.list{padding-top: 150px;}
+
+table{
+  width: 960px;
+  border-collapse: collapse;
+  text-align: left;  
+  background-color: white;
+}
+th{
+  background-color: palevioletred;
+}
+th, td{  
+  font-size: 20px;
+  padding-left: 20px;
+}
+table,th,td{
+  border: 1px solid black;
+}
+
+article{
+  margin-top: 30px;
+  padding-left: 20px;
+  width: 500px;
+  background-color: white;
+  font-size: 20px;
+  border: 1px solid black;
+}
+article #title{
+  font-size: 30px;
+  margin-top: 5px;
+  margin-bottom: 0;
+
+}
+article #nameDate{
+  margin-top:5px;
+  font-size: 20px;
+}
+article #submitBtn{
+  box-shadow:inset 0px 1px 0px 0px #f7c5c0;
+	background:linear-gradient(to bottom, #fc8d83 5%, #e4685d 100%);
+	background-color:#fc8d83;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+article #submitBtn:hover{
+  background:linear-gradient(to bottom, #e4685d 5%, #fc8d83 100%);
+	background-color:#e4685d;
+}
+td a{
+  
+  color: black;
+}
+td a:hover{
+  color: yellowgreen;
+}
+

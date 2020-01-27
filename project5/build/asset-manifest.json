@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-board-app/static/css/main.5769942a.chunk.css",
+    "main.js": "/react-board-app/static/js/main.88dfcd47.chunk.js",
+    "main.js.map": "/react-board-app/static/js/main.88dfcd47.chunk.js.map",
+    "runtime-main.js": "/react-board-app/static/js/runtime-main.92480d3c.js",
+    "runtime-main.js.map": "/react-board-app/static/js/runtime-main.92480d3c.js.map",
+    "static/js/2.48d1f61a.chunk.js": "/react-board-app/static/js/2.48d1f61a.chunk.js",
+    "static/js/2.48d1f61a.chunk.js.map": "/react-board-app/static/js/2.48d1f61a.chunk.js.map",
+    "index.html": "/react-board-app/index.html",
+    "precache-manifest.d7ad91c0e546355e25ad07668088808e.js": "/react-board-app/precache-manifest.d7ad91c0e546355e25ad07668088808e.js",
+    "service-worker.js": "/react-board-app/service-worker.js",
+    "static/css/main.5769942a.chunk.css.map": "/react-board-app/static/css/main.5769942a.chunk.css.map",
+    "static/js/2.48d1f61a.chunk.js.LICENSE": "/react-board-app/static/js/2.48d1f61a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92480d3c.js",
+    "static/js/2.48d1f61a.chunk.js",
+    "static/css/main.5769942a.chunk.css",
+    "static/js/main.88dfcd47.chunk.js"
+  ]
+}
