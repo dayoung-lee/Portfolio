@@ -60,3 +60,6 @@ Live Demo: <b>https://github.com/dayoung-lee/liveDemo</b>
 - Live Demo : <b>https://dayoung-lee.github.io/restaurant-app/#/</b>
 - Front-end : HTML, CSS, JavaScript (React)
 - Date : 2020.01.27-28
+
+### function
++ This is SPA(single page application) restaurant template.
