@@ -1,4 +1,4 @@
-Live Demo: <b>https://dayoung-lee.github.io/liveDemo</b>
+Live Demo: <b>https://github.com/dayoung-lee/liveDemo</b>
 # Project 1
 - This project 1 is a simple website.
 - Front-end : HTML, CSS, JSP, Javascript
