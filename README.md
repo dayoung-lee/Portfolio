@@ -57,5 +57,6 @@ Live Demo: <b>https://github.com/dayoung-lee/liveDemo</b>
    + user can create/read/update/delete their write.
 ---
 # Project 6 Restaurant Template
-- Live Demo : https://dayoung-lee.github.io/restaurant-template/ 
-- Date : 2020.01.27
+- Live Demo : <b>https://dayoung-lee.github.io/restaurant-app/#/</b>
+- Front-end : HTML, CSS, JavaScript (React)
+- Date : 2020.01.27-28
