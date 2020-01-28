@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/restaurant-app/static/css/main.f54b7e47.chunk.css",
+    "main.js": "/restaurant-app/static/js/main.5d0fabdc.chunk.js",
+    "main.js.map": "/restaurant-app/static/js/main.5d0fabdc.chunk.js.map",
+    "runtime-main.js": "/restaurant-app/static/js/runtime-main.ab8f4000.js",
+    "runtime-main.js.map": "/restaurant-app/static/js/runtime-main.ab8f4000.js.map",
+    "static/js/2.4f7c5527.chunk.js": "/restaurant-app/static/js/2.4f7c5527.chunk.js",
+    "static/js/2.4f7c5527.chunk.js.map": "/restaurant-app/static/js/2.4f7c5527.chunk.js.map",
+    "index.html": "/restaurant-app/index.html",
+    "precache-manifest.83643f1556683e34dd24a0f26829dc27.js": "/restaurant-app/precache-manifest.83643f1556683e34dd24a0f26829dc27.js",
+    "service-worker.js": "/restaurant-app/service-worker.js",
+    "static/css/main.f54b7e47.chunk.css.map": "/restaurant-app/static/css/main.f54b7e47.chunk.css.map",
+    "static/js/2.4f7c5527.chunk.js.LICENSE": "/restaurant-app/static/js/2.4f7c5527.chunk.js.LICENSE",
+    "static/media/aboutImg1.jpg": "/restaurant-app/static/media/aboutImg1.4d9a5a88.jpg",
+    "static/media/Home.css": "/restaurant-app/static/media/appetizer.3ffcb517.png",
+    "static/media/main_noodle1.jpg": "/restaurant-app/static/media/main_noodle1.25be68f7.jpg",
+    "static/media/menu_img.jpg": "/restaurant-app/static/media/menu_img.75d7b1d8.jpg",
+    "static/media/review.jpg": "/restaurant-app/static/media/review.3a6e3670.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab8f4000.js",
+    "static/js/2.4f7c5527.chunk.js",
+    "static/css/main.f54b7e47.chunk.css",
+    "static/js/main.5d0fabdc.chunk.js"
+  ]
+}
