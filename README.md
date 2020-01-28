@@ -56,3 +56,6 @@ Live Demo: <b>https://dayoung-lee.github.io/liveDemo</b>
 + This is SPA(single page application) CRUD board.
    + user can create/read/update/delete their write.
 
+# Project 6 Restaurant Template
+- Live Demo : 
+- Date : 2020.01.27
